@@ -1,0 +1,25 @@
+body {
+    background-color: #364fbe;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.card {
+    margin: auto;
+    border-radius: 5%;
+    background-color: #1c2c75;
+    width: 18.4%;
+    text-align: center;
+    h1 {
+        color: #FFF;
+    }
+    P {
+        color: #FFF;
+    }
+    img {
+        border-radius: 5%;
+    }
+    .button {
+        background-color: green;
+        width: 72.4%;
+        border-radius: 5%;
+    }
+}
